@@ -4094,7 +4094,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "GP20"
+		(property "Value" "GP21"
 			(at 256.54 105.4099 0)
 			(effects
 				(font
@@ -5966,7 +5966,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "GP21"
+		(property "Value" "GP20"
 			(at 256.54 140.9699 0)
 			(effects
 				(font

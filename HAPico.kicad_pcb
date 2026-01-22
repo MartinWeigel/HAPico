@@ -1558,7 +1558,7 @@
 				)
 			)
 		)
-		(property "Value" "GP20"
+		(property "Value" "GP21"
 			(at -3.53 0 180)
 			(layer "F.SilkS")
 			(uuid "15c4d5fa-c4d9-457d-89ca-38a97033f179")
@@ -1961,7 +1961,7 @@
 				)
 			)
 		)
-		(property "Value" "GP21"
+		(property "Value" "GP20"
 			(at -3.18 0 180)
 			(layer "F.SilkS")
 			(uuid "d2d3094b-6543-4d91-839f-da93b080a75e")
